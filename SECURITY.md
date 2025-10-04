@@ -4,8 +4,8 @@
 
 If you discover a security vulnerability in this project, please report it **privately** so it can be addressed responsibly.  
 
-**Preferred method:** Email the project maintainer directly:  
- sheetforscript@gmail.com
+**Preferred method:** You can contact the project maintainer securely via email: **sheetforscript@gmail.com**
+
 
  
 Please include:  
